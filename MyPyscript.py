@@ -4,6 +4,6 @@ def greet(name):
     who is passed in a parameter
     """
     print("Hello there, " + name + ". Nice to finally meet you!")
-
+    print("See you later, " + name + "!")
 greet('Cristian Vallejo')
 
